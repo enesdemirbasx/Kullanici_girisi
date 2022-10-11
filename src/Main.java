@@ -12,7 +12,7 @@ public class Main {
         System.out.print("Şifreniz: ");
         password=input.nextLine();
 
-        if (username.equals("enes") && password.equals("enes1252")) {
+        if (username.equals("enes") && password.equals("enes1234")) {
             System.out.println("Giriş Yaptınız !");
         }else {
             System.out.println("Giriş Bilgileriniz Yanlış");
